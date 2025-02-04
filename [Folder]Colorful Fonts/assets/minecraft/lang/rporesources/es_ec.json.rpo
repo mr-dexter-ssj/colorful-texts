@@ -1,0 +1,33 @@
+{
+    expansions: {
+        textToggle: "textToggle ? '' : '#'",
+        buildingBlocks: "buildingBlocks ? '' : '#'",
+        coloredBlocks: "coloredBlocks ? '' : '#'",
+        combat: "combat ? '' : '#'",
+        consumables: "consumables ? '' : '#'",
+        crafting: "crafting ? '' : '#'",
+        foodandDrink: "foodandDrink ? '' : '#'",
+        functional: "functional ? '' : '#'",
+        hotbar: "hotbar ? '' : '#'",
+        ingredients: "ingredients ? '' : '#'",
+        inventory: "inventory ? '' : '#'",
+        natural: "natural ? '' : '#'",
+        op: "op ? '' : '#'",
+        redstone: "redstone ? '' : '#'", 
+        search: "search ? '' : '#'",
+        spawnEggs: "spawnEggs ? '' : '#'",
+        tools: "tools ? '' : '#'",
+        optionsOff: "optionsOff ? '' : '#'",
+        optionsOn: "optionsOn ? '' : '#'",
+        difficultyPeaceful: "difficultyPeaceful ? '' : '#'",
+        difficultyEasy: "difficultyEasy ? '' : '#'",
+        difficultyNormal: "difficultyNormal ? '' : '#'",
+        difficultyHard: "difficultyHard ? '' : '#'",
+        cloudsFancy: "cloudsFancy ? '' : '#'",
+        cloudsFast: "cloudsFast ? '' : '#'",
+        graphicsFabulous: "graphicsFabulous ? '' : '#'", 
+        graphicsFancy: "graphicsFancy ? '' : '#'",
+        graphicsFast: "graphicsFast ? '' : '#'",
+        narratorOff: "narratorOff ? '' : '#'"
+    }
+}
