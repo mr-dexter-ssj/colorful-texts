@@ -1,4 +1,0 @@
-{
-    condition: "false",
-    fallback: "assets/minecraft/lang/rporesources/es_ec.json"
-}
